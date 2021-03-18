@@ -7,7 +7,7 @@
 
 #### Option: 1
 
-- [Download the latest release](https://github.com/ohidurbappy/todo-wallpaper/releases/latest/todo-wallpaper.exe) and install it.!
+- [Download the latest release](https://github.com/ohidurbappy/todo-wallpaper/releases/latest/download/todo-wallpaper.exe) and install it.!
 
 - You will get a TODO shortcut on your desktop. Start adding to your list...
 
