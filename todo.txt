@@ -1,0 +1,11 @@
+**************
+*         Todo        *
+**************
+
+- Learn python
+- Watch youtube
+- Github actions
+- Check email
+- abid
+- hello.....
+- works!
