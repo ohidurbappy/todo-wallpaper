@@ -13,7 +13,7 @@
 
 #### Option: 2
 
-- Download the repo and keep it in a location.
+- Clone the repo
 
 - Build the source to get binary executable.
 
@@ -23,7 +23,7 @@ go build -ldflags="-H windowsgui"
 
 ```
 
-- Download Nuget python package and keep in under `py` directory in
+- Download Nuget python package and keep it under `py` directory in
 the same location and install required packages
 
 ```bash
@@ -31,7 +31,7 @@ python.exe -m pip install Pillow
 
 ```
 
->> If you don't like to use Nuget package, you need to change the location of python binary in `main.go` file build it accordingly.
+> If you don't like to use Nuget package, you need to change the location of python binary in `main.go` file build it accordingly.
 
 - Create a shortcut of `todo-app.exe` in startup folder.
 
@@ -39,3 +39,10 @@ python.exe -m pip install Pillow
 
 
 Whenever the `todo.txt` file is changed the wallpaper will be updated.
+
+
+### TODO:
+- [ ] Ability for user to position the todo list
+- [ ] Random wallpaper from Bing image/similar source
+- [ ] Use user's current wallpaper by default
+- [ ] Pick contrasting color with respect to the wallpaper
