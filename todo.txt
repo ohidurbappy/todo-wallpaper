@@ -1,11 +1,18 @@
-**************
-*         Todo        *
-**************
+[font_size=22]
+[title=Things to do]
+[background=img19.jpg]
 
-- Learn python
-- Watch youtube
-- Github actions
-- Check email
-- abid
-- hello.....
-- works!
+
+SHOPPING
+**********
+1. T-Shirt
+2. Groceries
+
+TODO:
+************
+1. Laundry
+
+Pickup:
+*********
+- Pizza
+
