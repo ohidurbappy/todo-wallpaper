@@ -1,18 +1,20 @@
-[font_size=22]
-[title=Things to do]
+[font_size=18]
+[title=Things To do]
+//[background=surface_pro (2).jpg]
+//[background=xp.jpg]
 [background=img19.jpg]
 
 
-SHOPPING
-**********
-1. T-Shirt
-2. Groceries
+EXAM SCHEDULE:
+*******************
 
-TODO:
-************
-1. Laundry
+1. MAT 105
+2. EEE 211
+3. EEE 321
 
-Pickup:
-*********
-- Pizza
 
+
+Upcoming...
+-----------
+1. Lab Exam 
+2. Do homework
